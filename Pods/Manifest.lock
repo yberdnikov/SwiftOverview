@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (1.2.1)
+  - Cartography (0.5.0)
+  - HanekeSwift (0.9.1)
+  - SwiftLoader (0.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 1.2)
+  - Cartography
+  - HanekeSwift
+  - SwiftLoader
+
+SPEC CHECKSUMS:
+  Alamofire: 1acfdf179aff68b41a48dff70c1ac7fa263e2bcb
+  Cartography: 774e5cc446f5a6bca5d4345c5aa6af9a1fe74dc6
+  HanekeSwift: 50d37bfbc4432edc649167e538c259feccb4a2bb
+  SwiftLoader: 9c5e547ae8e00b1c1079139492d6a273c7f73171
+
+COCOAPODS: 0.36.4
